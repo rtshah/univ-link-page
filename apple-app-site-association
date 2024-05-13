@@ -1,0 +1,11 @@
+{
+  "applinks": {
+    "apps": [],
+    "details": [
+      {
+        "appID": "<HVC2LA2TCP>.<com.kbcodes.spark>",
+        "paths": [ "*" ]
+      }
+    ]
+  }
+}
